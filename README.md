@@ -1,4 +1,4 @@
-1- Clone the project from the Github.
+1- Clone the project from the Github- https://github.com/yadavvishal/Java_Assignment
 
 2- Open the project in Spring Tool Suite or Eclipse.
 
